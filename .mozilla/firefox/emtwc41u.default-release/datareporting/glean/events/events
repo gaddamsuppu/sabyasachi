@@ -1,0 +1,7 @@
+{"timestamp":293882822,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":293890590,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":293890590,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}
+{"timestamp":293914452,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":293914453,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":293961871,"category":"serp","name":"impression","extra":{"tagged":"true","impression_id":"3dd58383-3173-4310-881f-1b4623f243a5","provider":"google","partner_code":"ubuntu","shopping_tab_displayed":"false","is_shopping_page":"false","source":"urlbar"}}
+{"timestamp":293964989,"category":"serp","name":"engagement","extra":{"action":"clicked","impression_id":"3dd58383-3173-4310-881f-1b4623f243a5","target":"non_ads_link"}}

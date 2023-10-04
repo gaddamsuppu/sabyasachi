@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/suppu/abc/papa'
+let g:netrw_dirhist_8='/home/suppu/abc/devops/india'
+let g:netrw_dirhist_7='/home/suppu/abc/devops'
+let g:netrw_dirhist_6='/home/suppu/abc/devops/india'
+let g:netrw_dirhist_5='/home/suppu/abc/devops'
+let g:netrw_dirhist_4='/home/suppu'
+let g:netrw_dirhist_3='/home/suppu/abc'
+let g:netrw_dirhist_2='/home/suppu/abc/devops'
+let g:netrw_dirhist_1='/home/suppu/abc/devops/abc'
